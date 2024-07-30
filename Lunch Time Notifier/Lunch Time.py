@@ -21,6 +21,11 @@ while True:
     if current_time == "12:00":
 
         notify_lunch()
-        break
+        
+        # Sleep for 60 seconds to avoid multiple notifications within the same minute
+        time.sleep(60)
+        
+    # Check time every 30 seconds
+    time.sleep(30
 
       
