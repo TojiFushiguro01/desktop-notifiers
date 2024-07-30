@@ -26,6 +26,6 @@ while True:
         time.sleep(60)
         
     # Check time every 30 seconds
-    time.sleep(30
+    time.sleep(30)
 
       
