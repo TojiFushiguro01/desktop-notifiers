@@ -14,7 +14,7 @@ def notify_news(title1, description, source):
 
 def fetch_news():
 
-    # Your API key
+    # API key
     api_key = 'd656c31a50bf44a1a12101c427f7a871'
 
     # API endpoint
